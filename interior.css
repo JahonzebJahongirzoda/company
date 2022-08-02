@@ -1,0 +1,316 @@
+*{
+    margin: 0px;
+}
+.obsh{
+    display: grid;
+    grid-template-columns: 300px auto;
+    background-color: #fff;
+    height: 950vh;
+  }
+.obsh1{
+    position: sticky;
+    padding: 30px;
+    background-color: red;
+    color: white;
+    height: 100vh;
+    top: 0%;
+    position: sticky;
+
+}
+.obsh1 h1{
+    padding-top: 100px;
+    width: 60px;
+    font-size: 35px;
+    margin-bottom: 70px;
+}
+.obsh p{
+    margin-top: 15px;
+    width: 250px;
+    font-size: 25px;
+    margin-left: -20px;
+    height: 30px;
+    padding: 3px; 
+    padding-left: 20px;
+}
+.obsh p:hover{
+    background-color: white;
+    color:black;
+}
+.obsh2{
+    padding: 50px;
+}
+.obsh3 h1{
+    margin-top: 40px;
+    font-size: 70px;
+    width: 500px;
+}
+.obsh h2{
+    margin-top: 20px;
+    font-size: 60px;
+    color:red;
+}
+.obsh pre{
+    margin-top: 35px;
+width: 45px;
+height: 0.012px;
+border: 6px solid red;
+border-radius: 5px;
+}
+.obsh4{
+   margin-top: 30px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: 450px 340px 340px;
+    width:1160px;
+    height: 150vh;
+    gap: 10px;
+    column-gap: 20px;
+}
+.obsh41{
+    background-image: url(/img1.jpg);
+}
+.obsh42{
+    background-image: url(/img2.jpg);
+}
+.obsh43{
+    background-image: url(/img3.jpg);
+}
+.obsh44{
+    background-image: url(/img4.jpg);
+}
+.obsh45{
+    background-image: url(/img5jpg.jpg);
+}
+.obsh46{
+    background-image: url(/img6.jpg);
+}
+
+.obsh5{
+    margin-top: 100px;
+}
+.obsh5 p{
+    width: 1100px;
+    font-size: 19px;
+}
+
+.obsh6{
+    margin-top: 200px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    line-height: 40px;
+}
+.obsh61 img{
+    width: 350px;
+    height:300px;
+}
+.obsh62 img{
+    width: 350px;
+    height:300px;
+}
+.obsh63 img{
+    width: 350px;
+    height:300px;
+}
+.obsh61{
+
+    width: 350px;
+    height: 600px;
+}
+.obsh62{
+    width: 350px;
+    height: 600px;
+}
+.obsh63{
+    width: 350px;
+    height: 600px;
+}
+.obsh6 p{
+    line-height: 20px;
+    width: 350px;
+    font-size: 20px;
+    padding-left: 40px;
+}
+.obsh6 h1,p,h3{
+    padding-left: 20px;
+}
+.obsh7 p{
+width: auto;
+font-size: 20px;
+}
+.obsh8{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 40px;
+}
+.obshb1{
+    width: 480px;
+    height: 400px;
+}.obshb1{
+    width: 480px;
+    height: 723px;
+    border: 1px solid black;
+    margin: 10px;
+}
+.obshb1 h1{
+    padding: 50px;
+    text-align: center;
+    color:#ffffff;
+    background-color: red;
+    width: 380px;
+}
+.obshb1 p{
+    border-top: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    width: 440px;
+    margin-left: 0px;
+}
+.obshb1 h2{
+    border-top: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    width: 440px;
+}
+.obshb1 h3{
+    padding: 0px;
+    text-align: center;
+    padding-bottom: 10px;
+    width: 480px;
+}
+#b1{
+    border: none;
+}
+
+#bbb{
+    width: 70px;
+    height: 20px;
+    padding: 12px;
+    text-align: center;
+    background-color: white;
+    margin-left: 190px;
+justify-content: center;
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
+#fff{
+    width: 70px;
+    height: 20px;
+    padding: 12px;
+    text-align: center;
+    background-color:red;
+    margin-left: 190px;
+justify-content: center;
+margin-top: 20px;
+margin-bottom: 20px;
+color: #ffffff;
+}
+.o{
+    display: flex;
+    
+    background-color: lightgrey;
+  height: 80px;
+    text-align: center;
+}
+
+#fff:hover{
+    background-color:black ;
+    color: #ffffff;
+}
+#bbb:hover{
+    background-color:black ;
+    color: #ffffff;
+}
+.mmm{
+    margin-top: 100px}
+.obshsh p{
+    margin-left: 10px;
+    width: 1000px;
+    height: 90px;
+    font-size: 20px;
+}
+.obshsh h2,pre{
+    margin-left: 20px;
+}
+.obshsh pre{
+    margin-left: 30px;
+}
+.obshh input{
+    font-size: 30px;
+    width: 90%;
+    margin-top: 20px;
+}
+.obshh{
+    display: inline;
+}
+.obshh h3{
+    font-size: 20px;
+    margin-left: -20px;
+    margin-top: 40px;
+}
+.button button{
+    margin-top: 90px;
+    text-decoration: none;
+    width: 95%;
+    height: 50px;
+    background-color:red;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
